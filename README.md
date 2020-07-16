@@ -8,9 +8,10 @@
 ```javascript
 const softwareDeveloper = {
     name: "Uellington Damasceno",
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     speak: ["Portuguese ", "English (but not much)"],
     favoriteDataStructure: "Graph",
+    favoriteDesignPattern: "State",
     pets: ["Parakeet", "Cat"],
     formation: {
         university: "UEFS", 
@@ -22,39 +23,43 @@ const softwareDeveloper = {
 ----
 ## 🛠️ Technologies
 #### 🌳 Know
-- C
-- Java (Version: 8+)
-- JavaFX
-- Javascript
-- Wordpress
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javafx/javafx.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
+
 
 #### 🌱 Learning
-- English
-- Clojure
-- Docker
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/clojure/clojure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 
 #### 🤩 Interested
-- Gradle
-- GraalVM
 - Datomic
-- Kubernates
-- Kafka
+- GraalVM
 - IOTA
+- Kafka
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/gradle/gradle.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+
 
 #### 🗂️ Database
-- MySql
-- MongoDB
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 
 #### 💻 S.O.
-- Windows 10 
-- Linux Mint XFCE - 19.3 Tricia
+- Windows 10
+- Linux Mint XFCE - 19.3 Tricia 
 
 #### 💬 Others
-- Git
-- Heroku
-- VS Code 
 - Apache netbeans
 - Elementor page-builder
+- Heroku
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
+
 ---
 <!--
 **UellingtonDamasceno/UellingtonDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
