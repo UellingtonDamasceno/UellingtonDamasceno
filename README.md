@@ -23,42 +23,40 @@ const softwareDeveloper = {
 ----
 ## 🛠️ Technologies
 #### 🌳 Know
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javafx/javafx.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javafx/javafx.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+
 
 
 #### 🌱 Learning
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/clojure/clojure.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/clojure/clojure.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 
 #### 🤩 Interested
-- Datomic
-- GraalVM
-- IOTA
-- Kafka
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/gradle/gradle.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
+<code><img height="25" src="https://dbdb.io/media/logos/datomic.png"></code>
+<code><img height="25" src="https://dl.airtable.com/qU3WA8l7RNugSz7XGaNn_large_a2d0a422b38e8427adb36450d17e69f1_11156357cf86_t.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/gradle/gradle.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
 
 
 #### 🗂️ Database
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"></code>
 
 #### 💻 S.O.
 - Windows 10
 - Linux Mint XFCE - 19.3 Tricia 
 
 #### 💬 Others
-- Apache netbeans
-- Elementor page-builder
-- Heroku
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
+<code><img height="25" src="https://essential-addons.com/wp-content/uploads/2017/07/elementor-icon-256x256.png"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></code>
 
 ---
 <!--
