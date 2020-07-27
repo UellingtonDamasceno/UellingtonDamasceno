@@ -51,19 +51,19 @@ const softwareDeveloper = {
 - Linux Mint XFCE - 19.3 Tricia 
 
 #### 💬 Others
-<code><img height="25" src="https://essential-addons.com/wp-content/uploads/2017/07/elementor-icon-256x256.png"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></code>
+<code><a href="https://elementor.com/" title="Elementor Page Builder"><img height="25" src="https://essential-addons.com/wp-content/uploads/2017/07/elementor-icon-256x256.png"></a></code>
+<code><a href="https://git-scm.com/" title="Git"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"></a></code>
+<code><a href="https://heroku.com" title="Heroku"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg"></a></code>
+<code><a href="https://netbeans.apache.org/" title="Apache Netbeans"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png"></a></code>
+<code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></a></code> 
+<code><a href="https://wordpress.org/" title="Wordpress"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></a></code>
 
 ## 📫 Contact me
-<code><a href="https://www.facebook.com/uellington1"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111398.svg"></a></code>
-<code><a href="mailto:uellington99@gmail.com"><img height="25" src="https://image.flaticon.com/icons/svg/732/732200.svg"></a></code>
-<code><a href="https://www.instagram.com/damasceno_u/"><img height="25" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a></code>
-<code><a href="https://www.linkedin.com/in/uellington-damasceno-79759b164/"><img height="25" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a></code>
-<code><a href="https://twitter.com/uellington99"><img height="25" src="https://image.flaticon.com/icons/svg/1409/1409937.svg"></a></code>
+<code><a href="https://www.facebook.com/uellington1" title="Facebook"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111398.svg"></a></code>
+<code><a href="mailto:uellington99@gmail.com" title="Gmail"><img height="25" src="https://image.flaticon.com/icons/svg/732/732200.svg"></a></code>
+<code><a href="https://www.instagram.com/damasceno_u/" title="Instagram"><img height="25" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/uellington-damasceno-79759b164/" title="Linkedin"><img height="25" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a></code>
+<code><a href="https://twitter.com/uellington99" title="Twitter"><img height="25" src="https://image.flaticon.com/icons/svg/1409/1409937.svg"></a></code>
 
 <!--
 **UellingtonDamasceno/UellingtonDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
