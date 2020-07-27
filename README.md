@@ -15,7 +15,7 @@ const softwareDeveloper = {
     pets: ["Parakeet", "Cat"],
     formation: {
         university: "UEFS", 
-        since: 2017.2,
+        since: 2017.1,
         status: "In progress..."
     }
 }
@@ -58,7 +58,13 @@ const softwareDeveloper = {
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code> 
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></code>
 
----
+## 📫 Contact me
+<code><a href="https://www.facebook.com/uellington1"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111398.svg"></a></code>
+<code><a href="mailto:uellington99@gmail.com"><img height="25" src="https://image.flaticon.com/icons/svg/732/732200.svg"></a></code>
+<code><a href="https://www.instagram.com/damasceno_u/"><img height="25" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a></code>
+<code><a href="https://www.linkedin.com/in/uellington-damasceno-79759b164/"><img height="25" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a></code>
+<code><a href="https://twitter.com/uellington99"><img height="25" src="https://image.flaticon.com/icons/svg/1409/1409937.svg"></a></code>
+
 <!--
 **UellingtonDamasceno/UellingtonDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
