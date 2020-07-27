@@ -58,6 +58,7 @@ const softwareDeveloper = {
 <code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></a></code> 
 <code><a href="https://wordpress.org/" title="Wordpress"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></a></code>
 
+----
 ## 📫 Contact me
 <code><a href="https://www.facebook.com/uellington1" title="Facebook"><img height="25" src="https://image.flaticon.com/icons/svg/2111/2111398.svg"></a></code>
 <code><a href="mailto:uellington99@gmail.com" title="Gmail"><img height="25" src="https://image.flaticon.com/icons/svg/732/732200.svg"></a></code>
