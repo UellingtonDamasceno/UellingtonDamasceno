@@ -1,9 +1,7 @@
 # Hi there, I'm Uellington Damasceno! 👋🏿
 
-## About me: 
- >I believe that there are several different ways to solve a problem.
- 
-### A little more about me...
+## About me:
+<img height="280" align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ```javascript
 const softwareDeveloper = {
@@ -20,6 +18,11 @@ const softwareDeveloper = {
     }
 }
 ```
+ 
+### A little more about me...
+
+>I believe that there are several different ways to solve a problem.
+
 ----
 ## 🛠️ Technologies
 #### 🌳 Know
