@@ -1,4 +1,7 @@
+ <img align="right" src="http://hits.dwyl.com/UellingtonDamasceno/UellingtonDamasceno.svg"> 
+
 # Hi there, I'm Uellington Damasceno! 👋🏿
+
 
 ## About me:
 <img height="280" align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
@@ -7,7 +10,7 @@
 const softwareDeveloper = {
     name: "Uellington Damasceno",
     pronouns: ["He", "Him"],
-    speak: ["Portuguese ", "English (but not much)"],
+    speaks: ["Portuguese ", "English"],
     favoriteDataStructure: "Graph",
     favoriteDesignPattern: "State",
     pets: ["Parakeet", "Cat"],
