@@ -27,7 +27,13 @@ const softwareDeveloper = {
 >I believe that there are several different ways to solve a problem.
 
 ----
+
+ 
 ## 🛠️ Technologies
+
+<details>
+<summary> More</summary>
+
 #### 🌳 Know
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg"></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>
@@ -63,6 +69,8 @@ const softwareDeveloper = {
 <code><a href="https://netbeans.apache.org/" title="Apache Netbeans"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png"></a></code>
 <code><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></a></code> 
 <code><a href="https://wordpress.org/" title="Wordpress"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg"></a></code>
+
+</details>
 
 ----
 ## 📫 Contact me
