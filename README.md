@@ -58,7 +58,7 @@ const softwareDeveloper = {
 - Linux Mint XFCE - 19.3 Tricia 
 
 #### 💬 Others
-<code><a href="https://elementor.com/" title="Elementor Page Builder"><img height="25" src="https://essential-addons.com/wp-content/uploads/2017/07/elementor-icon-256x256.png"></a></code>
+<code><a href="https://elementor.com/" title="Elementor Page Builder"><img height="25" src="https://elementor.com/wp-content/uploads/2018/10/elementor_logo_gradient_120x120.png"></a></code>
 <code><a href="https://git-scm.com/" title="Git"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg"></a></code>
 <code><a href="https://heroku.com" title="Heroku"><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg"></a></code>
 <code><a href="https://netbeans.apache.org/" title="Apache Netbeans"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/245px-Apache_NetBeans_Logo.svg.png"></a></code>
