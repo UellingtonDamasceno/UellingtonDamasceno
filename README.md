@@ -1,4 +1,4 @@
-# Hi there, I'm Uellington Damasceno! 👋🏿
+# Hi there, I'm Uellington Damasceno! 👋🏿 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img width="150px" align="right" src="https://komarev.com/ghpvc/?username=UellingtonDamasceno&color=brightgreen&style=flat"></a>
 
 
 ## About me:
